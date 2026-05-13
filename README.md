@@ -47,6 +47,6 @@ DEEPSEEK_MODEL=deepseek-v4-flash
 DEEPSEEK_BASE_URL=https://api.deepseek.com
 ```
 
-## 面试讲法
+
 
 这个项目实现了一个 AI Product Manager Workflow。系统使用 LangGraph 编排多个 Agent，每个 Agent 负责产品经理流程中的一个阶段，并通过状态传递实现上下文共享。工具节点会先对竞品和指标公式做结构化处理，然后后续 Agent 基于这些工具输出和前序 Agent 结果继续生成 PRD、User Stories、Roadmap 和 Metrics。

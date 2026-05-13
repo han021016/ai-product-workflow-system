@@ -1,4 +1,4 @@
-# AI Product Manager Agent - DeepSeek + LangGraph + Tools
+# AI Product Manager Agent
 
 这是一个更真实的 AI 产品经理 Agent 工作流版本。
 

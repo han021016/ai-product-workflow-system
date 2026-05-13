@@ -1,0 +1,7 @@
+streamlit==1.35.0
+python-dotenv==1.0.1
+requests==2.32.3
+markdown==3.6
+langgraph==0.2.74
+langchain-core==0.3.35
+beautifulsoup4==4.12.3

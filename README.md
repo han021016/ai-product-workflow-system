@@ -55,3 +55,8 @@ DEEPSEEK_BASE_URL=https://api.deepseek.com
 home page:
 
 <img width="2940" height="1672" alt="6ad875252ad37d3ee3a8b9cbb9896ac9" src="https://github.com/user-attachments/assets/42651032-5d69-456f-97b6-15934061b705" />
+
+
+sample：
+
+<img width="2940" height="1672" alt="e92d39c500589d5399774601368f5442" src="https://github.com/user-attachments/assets/db37e597-07c5-4bee-b28d-9d1d1058f9eb" />
